@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14491
   title: དག་ཡིག་ལྷ་ཆབ་འཁྱིལ་བ།
-  volume: ''
+  volume:
+    dbf1f0c947b84871868d999414631146:
+      image_group_id: I1KG14839
+      title: Volume 1 of dag yig lha chab 'khyil ba/
+      volume_number: 1
+      total_pages: 118
   author: ''
+ebook_metadata:
+  title: དག་ཡིག་ལྷ་ཆབ་འཁྱིལ་བ།
+  author: ''
+  sku: P007853
+  cover: cover.jpg
+  layers:
+  - pagination
